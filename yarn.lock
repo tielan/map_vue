@@ -957,6 +957,11 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
+"@dvgis/dc-sdk@^2.11.0":
+  version "2.11.0"
+  resolved "https://registry.npmmirror.com/@dvgis/dc-sdk/-/dc-sdk-2.11.0.tgz#7df4c2f344dbbfd00f12cda2cc1d53bf0d18291b"
+  integrity sha512-eX1W/ak3mmZS64y/La5Nx1YNC+5H97Ex23du1La8247bElnMfcJ6SyyPyzjEgpjyd67BtaPVe9EG26kTbNr+jQ==
+
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
   resolved "https://registry.npmmirror.com/@eslint/eslintrc/-/eslintrc-0.4.3.tgz#9e42981ef035beb3dd49add17acb96e8ff6f394c"
